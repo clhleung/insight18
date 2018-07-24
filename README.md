@@ -1,4 +1,4 @@
-# Project-Title Insight 18
+# Project-Title
 
 One line description.
 
